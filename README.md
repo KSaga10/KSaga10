@@ -1,12 +1,34 @@
-👋 Hi, I’m @KSaga10  
-🎮 Also known as **K's Gaming Saga**
-- 👀 I’m interested in **Python programming**, **Cyber Security**, **Game Development**, and **Web Design**
-- 🌱 I’m currently learning **Data Structures**, **C**, **Java**, **Computer Architecture**, **Python**, and exploring **Cyber Security tools and techniques** 
-- 💞️ I’m looking to collaborate on **open-source beginner projects**, **simple Python tools**, and **cybersecurity practice labs**
-- 📫 How to reach me: redditor.k.shadow96@gmail.com (or drop a message here on GitHub)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I run a gaming channel and love kebab wraps almost as much as writing code 🔥
 <!---
 KSaga10/KSaga10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Hi, I'm Karan 👋 — also known as **KSaga** / **K's Gaming Saga** 🎮
+
+I'm a self-taught developer diving into **Python, Cyber Security, Game Development, and Web Design**. I like building small, practical tools and breaking things (safely) to understand how they work.
+
+### 🌱 Currently learning
+`Data Structures` · `C` · `Java` · `Computer Architecture` · `Python` · `Cyber Security tooling`
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+### 💞️ Looking to collaborate on
+- Beginner-friendly open-source projects
+- Simple Python tools/utilities
+- Cybersecurity practice labs (CTF-style)
+
+### 📌 Featured Projects
+- **[Password Strength Checker](https://github.com/KSaga10/password-strength-checker)** — CLI tool that analyzes password strength via entropy calculation and common-weakness detection, rather than a simple complexity checklist
+- **[Project Name]** — one-line description _(next one up — see suggestions in progress)_
+
+### 📊 GitHub Stats
+![KSaga10's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSaga10&show_icons=true&theme=default)
+
+### 📫 Reach me
+- GitHub: message me here
+- Email:  redditor.k.shadow96@gmail.com
+
+⚡ Fun fact: I run a gaming channel and love kebab wraps almost as much as writing code 🔥
