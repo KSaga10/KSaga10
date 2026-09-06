@@ -23,6 +23,7 @@ I'm a self-taught developer diving into **Python, Cyber Security, Game Developme
 ### 📌 Featured Projects
 - **[Password Strength Checker](https://github.com/KSaga10/password-strength-checker)** — CLI tool that analyzes password strength via entropy calculation and common-weakness detection, rather than a simple complexity checklist
 - **[Educational Port Scanner](https://github.com/KSaga10/port-scanner)** — Multi-threaded TCP port scanner built from raw sockets, exploring how network security tools work under the hood
+- **[Snake — Arcade Edition](https://ksaga10.github.io/snake-arcade/)** ([code](https://github.com/KSaga10/snake-arcade)) — Play it live: retro arcade-style Snake built with vanilla HTML5 Canvas and JavaScript
 
 ### 📊 GitHub Stats
 ![KSaga10's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSaga10&show_icons=true&theme=default)
@@ -32,3 +33,4 @@ I'm a self-taught developer diving into **Python, Cyber Security, Game Developme
 - Email: available on request
 
 ⚡ Fun fact: I run a gaming channel and love kebab wraps almost as much as writing code 🔥
+
