@@ -4,6 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi, I'm Karan 👋 — also known as **KSaga** / **K's Gaming Saga** 🎮
 
+🌐 **[View my portfolio site](https://ksaga10.github.io/portfolio/)**
+
 I'm a self-taught developer diving into **Python, Cyber Security, Game Development, and Web Design**. I like building small, practical tools and breaking things (safely) to understand how they work.
 
 ### 🌱 Currently learning
@@ -30,7 +32,10 @@ I'm a self-taught developer diving into **Python, Cyber Security, Game Developme
 
 ### 📫 Reach me
 - GitHub: message me here
-- Email: available on request
-
+- Email: redditor.k.shadow96@gmail.com
+- Discord: https://discord.gg/dyHXMaMNkC
+- YouTube: https://youtube.com/@ks1022-p7y?si=XX9bA0OlgMzBsxXZ
+  
 ⚡ Fun fact: I run a gaming channel and love kebab wraps almost as much as writing code 🔥
+
 
